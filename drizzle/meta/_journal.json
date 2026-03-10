@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1761323952133,
+      "tag": "0000_familiar_psylocke",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1761324075667,
+      "tag": "0001_clumsy_white_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1761375790536,
+      "tag": "0002_youthful_richard_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1761376624384,
+      "tag": "0003_sudden_violations",
+      "breakpoints": true
+    }
+  ]
+}
