@@ -238,9 +238,3 @@ This project is open-source under the **MIT License**.
 * [TailwindCSS](https://tailwindcss.com/)
 * [Bun](https://bun.sh/)
 
----
-
-## ~ Rajveer Bishnoi ✨
-
-
----
